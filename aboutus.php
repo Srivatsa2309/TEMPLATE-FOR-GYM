@@ -147,7 +147,7 @@
                         <i class="ri-checkbox-circle-line"></i> Muscle Stretching
                       </li>
                     </ul>
-                    <a href="/responsive-gym-website-main/registernow.php" class="program__button">
+                    <a href="/registernow.php" class="program__button">
                         <i class="ri-arrow-right-line"></i>
                       </a>                    
                   </article>
@@ -179,7 +179,7 @@
                         <i class="ri-checkbox-circle-line"></i> Muscle Stretching
                       </li>
                     </ul>
-                    <a href="/responsive-gym-website-main/registernow.php" class="program__button">
+                    <a href="/registernow.php" class="program__button">
                         <i class="ri-arrow-right-line"></i>
                       </a>
                   
@@ -212,7 +212,7 @@
                         <i class="ri-checkbox-circle-line"></i> Muscle Stretching
                       </li>
                     </ul>
-                    <a href="/responsive-gym-website-main/registernow.php" class="program__button">
+                    <a href="/registernow.php" class="program__button">
                         <i class="ri-arrow-right-line"></i>
                       </a>
                     
