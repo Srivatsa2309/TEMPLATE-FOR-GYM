@@ -17,7 +17,8 @@ if(isset($_POST["submit"])){
     mysqli_query($conn, $query);
     echo
     "
-    <script> alert('Data Inserted Successfully'); </script>
+    <script>  window.location.href = 'https://rr-iron-fitness.herokuapp.com/';
+    alert('Data Inserted Successfully'); </script>
     ";
 
   }
