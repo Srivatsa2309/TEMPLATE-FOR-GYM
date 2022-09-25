@@ -38,7 +38,7 @@
 
 
                           <div class="nav__link" >
-                            <a href="/index.php" class="button nav__button">
+                            <a href="/registernow.php" class="button nav__button">
                               Register Now
                             </a>
                           </div>
