@@ -69,7 +69,7 @@
                     In here we will help you to shape and build your ideal
                     body and live your life to the fullest.
                   </p>
-                  <a href="/responsive-gym-website-main/aboutus.php" class="gs__btn">
+                  <a href="/aboutus.php" class="gs__btn">
                     Get Started 
                   </a>
                 </div>
